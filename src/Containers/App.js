@@ -17,13 +17,14 @@ import Register from '../Components/Register/register';
  //PARTICLES SETUP
 const particleOptions= {
    particles: {
-    number:{ value: 350,
+    number:{ value: 230,
       density:{ enable: true, value_area: 650}},
     color: <div id="ffffff"></div>,
     move: {
       enable: true,
       direction: 'bottom-right',
-      out_mode: 'out'
+      out_mode: 'out',
+      speed: 15
     }
    }
   }
