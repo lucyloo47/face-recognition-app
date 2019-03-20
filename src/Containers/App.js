@@ -24,7 +24,7 @@ const particleOptions= {
       enable: true,
       direction: 'bottom-right',
       out_mode: 'out',
-      speed: 15
+      speed: 10
     }
    }
   }
